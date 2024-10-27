@@ -10,6 +10,8 @@ The following are tentative topics that will be covered in the course. The topic
 #. Regression and Classification
 #. Neural Networks
 #. Probabilistic Generative Models
+#. Normalizing Flows
+#. Diffusion Models
 
 **Module 2: Machine Learning** :math:`\cap` **Biophysics**
 
@@ -33,7 +35,3 @@ The following are tentative topics that will be covered in the course. The topic
 #. Free Energy Calculation
 #. Protein-Ligand Binding
 #. Computational Drug Design
-
-
-
-
