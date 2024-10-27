@@ -13,6 +13,7 @@ The following are tentative topics that will be covered in the course. The topic
 
 **Module 2: Machine Learning** :math:`\cap` **Biophysics**
 
+#. Multiple Sequence Alignment
 #. Directed Coupling Analysis
 #. Protein Structure Prediction
 #. Protein Design
@@ -21,7 +22,8 @@ The following are tentative topics that will be covered in the course. The topic
 **Module 3: Molecular Dynamics**
 
 #. Boltzmann Distribution and Langevin Dynamics
-#. Molecular Dynamics Simulation with OpenMM
+#. Molecular Dynamics Simulation
+#. OpenMM
 #. Umbrella Sampling
 #. Temperature Replica Exchange Molecular Dynamics
 
@@ -29,6 +31,8 @@ The following are tentative topics that will be covered in the course. The topic
 
 #. Protein Folding
 #. Free Energy Calculation
+#. Protein-Ligand Binding
+#. Computational Drug Design
 
 
 
