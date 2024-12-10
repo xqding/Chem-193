@@ -16,7 +16,7 @@ The course will be taught in Python and will use popular libraries such as Numpy
 
 **Instructor:** Dr. Xinqiang Ding (Xinqiang.Ding@tufts.edu)
 
-**Time and Location:** TBA.
+**Time and Location:** Tuesday and Thursday 10:30-11:45am, Pearson 112
 
 .. toctree::
    :maxdepth: 1
