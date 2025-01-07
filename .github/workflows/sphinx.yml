@@ -12,6 +12,9 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
+    - name: Install pandoc
+      run: sudo apt-get install -y pandoc
+
     - name: Install the latest version of uv
       uses: astral-sh/setup-uv@v3
       with:
