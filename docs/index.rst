@@ -22,5 +22,6 @@ The course will be taught in Python and will use popular libraries such as Numpy
    :maxdepth: 1
 
    syllabus.rst
+   python-basics.ipynb
 
 
